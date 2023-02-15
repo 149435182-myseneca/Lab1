@@ -7,3 +7,9 @@ def calculate_age():
     print("You are", age, "years old.")
 
 calculate_age()
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
